@@ -1,0 +1,1385 @@
+﻿Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 9 | Location 160-161 | Added on Friday, August 7, 2020 5:07:51 PM
+
+How a Product is built using the traditional way – Waterfall
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 9 | Location 160 | Added on Friday, August 7, 2020 5:08:21 PM
+
+Funny to have discussed this with Bart.
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 29 | Location 271-274 | Added on Sunday, August 9, 2020 11:19:04 AM
+
+What on earth would I do if four bears came into my camp? Why, I would die, of course. Literally shit myself lifeless. I would blow my sphincter out of my backside like one of those unrolling paper streamers you get at children’s parties – I dare say it would even give a merry toot – and bleed to a messy death in my sleeping bag.
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 32 | Location 313-315 | Added on Sunday, August 9, 2020 11:24:42 AM
+
+She gave me her pull-the-other-one look. ‘You have nothing in common.’ ‘We have everything in common. We’re forty-four years old. We’ll talk about haemorrhoids and lower back pain and how we can’t remember where we put anything
+==========
+A Walk In The Woods (Bryson)  
+- Your Note on page 32 | Location 315 | Added on Sunday, August 9, 2020 11:25:02 AM
+
+So Shai hahaha
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 68 | Location 756-756 | Added on Sunday, August 9, 2020 4:29:15 PM
+
+Even at busy times, however, the woods are great providers
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 68 | Location 756-757 | Added on Sunday, August 9, 2020 4:29:27 PM
+
+Even at busy times, however, the woods are great providers of solitude, and I encountered long periods of perfect aloneness
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 68 | Location 756-757 | Added on Sunday, August 9, 2020 4:29:47 PM
+
+Even at busy times, however, the woods are great providers of solitude, and I encountered long periods of perfect aloneness, when I didn’t see another soul for hours,
+==========
+A Walk In The Woods (Bryson)  
+- Your Note on page 68 | Location 757 | Added on Sunday, August 9, 2020 4:30:27 PM
+
+I should plan more hikes for more solitude.
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 68 | Location 759-760 | Added on Sunday, August 9, 2020 4:32:10 PM
+
+adjust my pack. We seemed to be looking out for
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 69 | Location 775-777 | Added on Sunday, August 9, 2020 4:34:28 PM
+
+I have long known that it is part of God’s plan for me to spend a little time with each of the most stupid people on earth, and Mary Ellen was proof that even in the Appalachian woods I would not be spared.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 12 | Location 253-254 | Added on Monday, August 10, 2020 6:26:11 PM
+
+Empiricism theory is based on the concept that complex problems are hard to predict.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 13 | Location 259-260 | Added on Monday, August 10, 2020 6:27:24 PM
+
+The small team creates a product Increment which is a usable outcome, at the end of these few weeks.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 13 | Location 260 | Added on Monday, August 10, 2020 6:27:57 PM
+
+We should focus more on this. Bart already stressed this.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 21 | Location 427-428 | Added on Monday, August 10, 2020 6:38:10 PM
+
+The Scrum Master manages how Scrum is implemented.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 21 | Location 428 | Added on Monday, August 10, 2020 6:38:30 PM
+
+My role definition.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 21 | Location 429-430 | Added on Monday, August 10, 2020 6:39:08 PM
+
+None of these management positions, such as Product Owner, Scrum Master, etc. involve managing people or unilaterally controlling the project plan or tasks.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 22 | Location 470-472 | Added on Monday, August 10, 2020 6:43:30 PM
+
+For example, in a Development Team that builds software, each of the Developers could be a specialist in an individual area. But there is no special role assigned to them.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 22 | Location 472 | Added on Monday, August 10, 2020 6:45:19 PM
+
+Shoud keep this up in our team. We shouldn't share all knowledge. But maybe we can have David pick up more Django tests.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 23 | Location 485-486 | Added on Monday, August 10, 2020 6:50:49 PM
+
+The Product Owner feeds the list of ordered product features to the team.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 23 | Location 486 | Added on Monday, August 10, 2020 6:51:17 PM
+
+The big role Bart has.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 24 | Location 499-499 | Added on Monday, August 10, 2020 6:52:43 PM
+
+Ultimate authority of the team’s scope of work:
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 24 | Location 499 | Added on Monday, August 10, 2020 6:53:50 PM
+
+Bart shoud have power over the direction of Hypernode. More alignment between Web and Sys maybe?
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 24 | Location 515-517 | Added on Monday, August 10, 2020 6:55:34 PM
+
+Every Sprint must create at least one piece of functionality that is useable by the intended users. Only then can it lead to inspection, usage, and useful feedback. So, the Increment which is a body of inspectable and usable outcome, is the only measure of progress in Scrum.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 24 | Location 519 | Added on Monday, August 10, 2020 6:57:01 PM
+
+Should ask Barts opinion on this.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 24 | Location 519-519 | Added on Monday, August 10, 2020 6:57:01 PM
+
+(Burn-down),
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 25 | Location 526-527 | Added on Monday, August 10, 2020 6:57:31 PM
+
+Scrum – A new way of leading by coaching
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 25 | Location 526 | Added on Monday, August 10, 2020 6:57:54 PM
+
+Great quote that captures the Scrum essence.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 25 | Location 528-529 | Added on Monday, August 10, 2020 6:58:38 PM
+
+This leadership model is called servant leadership.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 25 | Location 529 | Added on Monday, August 10, 2020 6:58:49 PM
+
+Great name.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 25 | Location 537-539 | Added on Monday, August 10, 2020 6:59:54 PM
+
+In Scrum, the person playing the servant-leader role is called the Scrum Master. The Scrum Master serves the team by coaching them to work together for a common goal irrespective of their individual skills. The Scrum Master mentors the team so that it becomes self-sufficient in their product development ownership.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 25 | Location 539 | Added on Monday, August 10, 2020 7:00:10 PM
+
+This is what I should aim for.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 26 | Location 550-552 | Added on Monday, August 10, 2020 7:01:23 PM
+
+Scrum Master is a management position in Scrum. The Scrum Master manages the Scrum Implementation. The Scrum Master coaches the Scrum Team to realize their potential. They are not just teachers or coaches. They are responsible for many other activities that are instrumental in transforming teams into value creators.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 26 | Location 552 | Added on Monday, August 10, 2020 7:02:19 PM
+
+Manager of Scrum, coach of the developers.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 26 | Location 553-554 | Added on Monday, August 10, 2020 7:03:18 PM
+
+Scrum Team runs into issues that prevent it from achieving their goal and if these issues are outside the team’s influence, the Scrum Master owns these impediments and resolves them.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 26 | Location 554 | Added on Monday, August 10, 2020 7:03:53 PM
+
+Example of critical role
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 26 | Location 554-555 | Added on Monday, August 10, 2020 7:04:23 PM
+
+The Scrum Master also shields the team from unnecessary external interruptions, by helping those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 26 | Location 555 | Added on Monday, August 10, 2020 7:04:40 PM
+
+Important to keep externals at bay.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 26 | Location 555-556 | Added on Monday, August 10, 2020 7:04:43 PM
+
+The Scrum Master sets the goals for the team to improve their way of working every Sprint.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 26 | Location 556 | Added on Monday, August 10, 2020 7:05:14 PM
+
+What I like to do in the retro meetings.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 28 | Location 592-594 | Added on Wednesday, August 12, 2020 2:44:22 AM
+
+The Scrum Master is responsible for promoting and supporting Scrum as defined in the Scrum Guide. Scrum Masters do this by helping everyone understand Scrum theory, practices, rules, and values.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 28 | Location 594 | Added on Wednesday, August 12, 2020 2:44:39 AM
+
+Shoud read the Scrum guide.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 28 | Location 594-596 | Added on Wednesday, August 12, 2020 2:45:06 AM
+
+The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 30 | Location 631-631 | Added on Wednesday, August 12, 2020 2:48:10 AM
+
+Transparency:
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 30 | Location 634-634 | Added on Wednesday, August 12, 2020 2:48:15 AM
+
+Inspection:
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 30 | Location 636-636 | Added on Wednesday, August 12, 2020 2:48:21 AM
+
+Adaptation:
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 32 | Location 687-688 | Added on Wednesday, August 12, 2020 2:52:46 AM
+
+Scrum Teams live by five values: commitment, courage, focus, openness, and respect.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 33 | Location 713-714 | Added on Wednesday, August 12, 2020 2:55:05 AM
+
+The definition of ‘Done’ should have conditions that the Product Increment must meet to be released to production.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 33 | Location 714 | Added on Wednesday, August 12, 2020 2:55:25 AM
+
+Maybe we shoud set a DoD.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 34 | Location 728-730 | Added on Wednesday, August 12, 2020 2:57:37 AM
+
+See agilemanifesto.org for more information.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 34 | Location 742-743 | Added on Wednesday, August 12, 2020 2:59:53 AM
+
+Scrum explicitly lists “Understanding and practicing agility” as one of the services that the Scrum Master provides
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 34 | Location 742-743 | Added on Wednesday, August 12, 2020 3:00:00 AM
+
+Scrum explicitly lists “Understanding and practicing agility” as one of the services that the Scrum Master provides to a team.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 34 | Location 743 | Added on Wednesday, August 12, 2020 3:00:16 AM
+
+Should read up on Agile.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 35 | Location 757-759 | Added on Wednesday, August 12, 2020 3:02:01 AM
+
+ScrumBut refers to an adjustment or modification made to Scrum so that the organization can hide the problem instead of addressing it.
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 93 | Location 1069-1072 | Added on Thursday, August 13, 2020 1:36:33 AM
+
+Distance changes utterly when you take the world on foot. A mile becomes a long way, two miles literally considerable, ten miles whopping, 50 miles at the very limits of conception. The world, you realize, is enormous in a way that only you and a small community of fellow hikers know. Planetary scale is your little secret.
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 93 | Location 1072-1073 | Added on Thursday, August 13, 2020 1:36:51 AM
+
+Life takes on a neat simplicity, too. Time ceases to have any meaning. When it is dark you go to bed and when it is light again you get up, and everything in between is just in between. It’s quite wonderful, really.
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 111 | Location 1304-1305 | Added on Monday, August 17, 2020 8:19:31 PM
+
+a pugnacious tone, ‘Do you know what that
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 115 | Location 1363-1364 | Added on Wednesday, August 19, 2020 2:26:47 AM
+
+They are home to 130 native species of tree. The whole of Europe has just 85.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 41 | Location 912-913 | Added on Friday, August 21, 2020 5:23:13 PM
+
+The inputs to the first Sprint are the Product Backlog and projected Sprint capacity of the Development Team.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 42 | Location 939-940 | Added on Friday, August 21, 2020 5:25:36 PM
+
+Once a Scrum Team is staffed, the team is maintained as a constant talent pool that is available throughout the journey.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 43 | Location 959-960 | Added on Friday, August 21, 2020 5:27:34 PM
+
+The expected technical quality is made transparent by the definition of “Done.”
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 43 | Location 960 | Added on Friday, August 21, 2020 5:27:56 PM
+
+Again we should work on our DoD
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 43 | Location 961-962 | Added on Friday, August 21, 2020 5:28:17 PM
+
+During each Sprint Retrospective, the Scrum Team plans ways to increase product quality by adapting the definition of “Done” as appropriate.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 43 | Location 962 | Added on Friday, August 21, 2020 5:28:41 PM
+
+We should dedicate a part of our retro to this
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 43 | Location 962-964 | Added on Friday, August 21, 2020 5:28:51 PM
+
+As a Scrum Team matures, it is expected that their definition of “Done” will expand to include more stringent criteria for higher quality.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 43 | Location 970-973 | Added on Friday, August 21, 2020 5:29:59 PM
+
+The Scrum Master manages the communication at the periphery of the team, such as multiple departments of the organization vs. the Development Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 44 | Location 982-983 | Added on Friday, August 21, 2020 5:30:59 PM
+
+Development Teams do not create a big upfront design before they start Sprints. Instead they evolve the design.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 44 | Location 983 | Added on Friday, August 21, 2020 5:31:10 PM
+
+Great way of phrasing
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 44 | Location 986-987 | Added on Friday, August 21, 2020 5:31:48 PM
+
+In the Sprint Planning, this skeleton design is revisited and evolved to a finer level.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 44 | Location 987 | Added on Friday, August 21, 2020 5:32:28 PM
+
+Sprint planning should have the designs ready. We should not have to wait on a design.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 45 | Location 1023 | Added on Friday, August 21, 2020 5:35:28 PM
+
+Do we (Bart) agree with this?
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 45 | Location 1023-1023 | Added on Friday, August 21, 2020 5:35:28 PM
+
+Scrum is immutable.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 45 | Location 1032-1033 | Added on Friday, August 21, 2020 5:36:34 PM
+
+The Ongoing Act of Product Backlog Refinement – Starts before the first Sprint and continues
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 45 | Location 1039-1041 | Added on Friday, August 21, 2020 5:37:35 PM
+
+A Scrum Team should not wait until Sprint Planning to refine the items in a “just in time” manner. It is good practice to have a sufficient number of items in a “Ready” state for at least one or two upcoming Sprints.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 45 | Location 1040 | Added on Friday, August 21, 2020 5:38:07 PM
+
+Just like with the designs, maybe planning a little further would be nice.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 46 | Location 1046-1047 | Added on Friday, August 21, 2020 5:38:48 PM
+
+Refinement usually consumes no more than 10% of the capacity of the Development Team.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 46 | Location 1047-1048 | Added on Friday, August 21, 2020 5:39:27 PM
+
+Product Backlog Items are decomposed by analyzing their intent. Each item is added with a description, order, estimate, and value.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 46 | Location 1061-1061 | Added on Friday, August 21, 2020 5:40:48 PM
+
+Spike is a time-boxed research activity to prove or disprove something and gain more clarity.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 46 | Location 1061 | Added on Friday, August 21, 2020 5:41:24 PM
+
+Maybe we can introduce this in some way. I think Nick qould enjoy and be good at this.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 47 | Location 1080-1080 | Added on Friday, August 21, 2020 5:43:41 PM
+
+Fig 12- Sample of Product Backlog
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 47 | Location 1080 | Added on Friday, August 21, 2020 5:44:31 PM
+
+Thinking about the value. Kinda like the SSH change Rick didn't agree with.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 47 | Location 1087-1088 | Added on Friday, August 21, 2020 5:45:05 PM
+
+Defining the definition of “Done,” which can provide clarity on the required work standard
+==========
+Battleborn (Watkins, Claire Vaye)
+- Your Highlight on page 2 | Location 81-81 | Added on Sunday, August 23, 2020 7:05:55 PM
+
+In 1909, 315 Lake Street was erected.
+==========
+Battleborn (Watkins, Claire Vaye)
+- Your Highlight on page 5 | Location 109-109 | Added on Sunday, August 23, 2020 7:12:39 PM
+
+1200 Santa Susana Pass Road,
+==========
+Battleborn (Watkins, Claire Vaye)
+- Your Highlight on page 5 | Location 114-115 | Added on Sunday, August 23, 2020 7:14:18 PM
+
+shoot films at the ranch, among them High Noon, The Comstock Boys, and David O. Selznick’s 1946 classic Duel in the Sun, starring Gregory Peck.
+==========
+Battleborn (Watkins, Claire Vaye)
+- Your Highlight on page 5 | Location 115-115 | Added on Sunday, August 23, 2020 7:14:59 PM
+
+including most episodes of The Lone Ranger and
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 48 | Location 1121-1122 | Added on Tuesday, August 25, 2020 1:32:56 PM
+
+Parameters like timelines and budget are reviewed in the Sprint Review. Work standards like definition of "Done" are reviewed in the Sprint Retrospective.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 52 | Location 1202 | Added on Wednesday, August 26, 2020 10:26:16 PM
+
+Great Table!!
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 52 | Location 1201-1202 | Added on Wednesday, August 26, 2020 10:26:16 PM
+
+What is their responsibility?
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 53 | Location 1218-1221 | Added on Wednesday, August 26, 2020 10:33:37 PM
+
+In such conflicting situations, a Scrum Master teaches both the Product Owner and the Development Team about their empowerment and balances. So, we can see that there could be situations involving conflict of interest if one person plays both roles. Let us examine this further.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 53 | Location 1220 | Added on Wednesday, August 26, 2020 10:33:58 PM
+
+What a great chapter
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 155 | Location 1824-1826 | Added on Friday, August 28, 2020 2:27:16 AM
+
+For all its mass, a tree is a remarkably delicate thing. All of its internal life exists within three paper-thin layers of tissue, the phloem, xylem and cambium, just beneath the bark, which together form a moist sleeve around the dead heartwood.
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 156 | Location 1837-1839 | Added on Friday, August 28, 2020 2:29:36 AM
+
+Some species of oak release a chemical that tells other oaks in the vicinity that an attack is under way. In response, the neighbouring oaks step up their tannin production the better to withstand the coming onslaught.
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 160 | Location 1886-1887 | Added on Friday, August 28, 2020 2:39:17 AM
+
+If there is one thing the AT teaches, it is low-level ecstasy – something we could all do with more of in our lives.
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 160 | Location 1893-1896 | Added on Friday, August 28, 2020 2:42:33 AM
+
+Hunger, too, follows a defined pattern. On the first night you are starving for your noodles; on the second night you are starving but wish it wasn’t noodles; on the third you don’t want the noodles but know you had better eat something; by the fourth you have no appetite at all but just eat because that is what you do at this time of day. I can’t explain it, but it’s strangely agreeable.
+==========
+A Walk In The Woods (Bryson)  
+- Your Note on page 160 | Location 1896 | Added on Friday, August 28, 2020 2:42:42 AM
+
+Like fasting
+==========
+Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened (Brosh, Allie)
+- Your Highlight on page 40 | Location 217-218 | Added on Friday, August 28, 2020 6:34:47 PM
+
+For me, motivation is this horrible, scary game where I try to make myself do something while I actively avoid doing it.
+==========
+Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened (Brosh, Allie)
+- Your Highlight on page 42 | Location 231-233 | Added on Friday, August 28, 2020 6:35:57 PM
+
+But I keep allowing it to happen because, to me, the future doesn’t seem real. It’s just this magical place where I can put my responsibilities so that I don’t have to be scared while hurtling toward failure at eight hundred miles per hour.
+==========
+Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened (Brosh, Allie)
+- Your Highlight on page 125 | Location 573-574 | Added on Sunday, August 30, 2020 1:32:29 AM
+
+I tried to get out more, but most fun activities just left me existentially confused or frustrated with my inability to enjoy them.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 54 | Location 1232-1234 | Added on Monday, August 31, 2020 1:27:21 PM
+
+• Scrum Coach: The Scrum Master coaches the Scrum Team and ensures that it understands and adheres to the Scrum way of working that include Scrum theory, practices, rules, and values. As needed, the Scrum Master facilitates the events for the Product Owner and Development Team and ensures timeboxing.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 54 | Location 1234 | Added on Monday, August 31, 2020 1:27:54 PM
+
+I should take charge in planning Scrum related meetings.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 54 | Location 1234-1237 | Added on Monday, August 31, 2020 1:28:10 PM
+
+Servant Leadership: Instead of commanding and controlling, the Scrum Master has a strong inclination to serve the team by helping them to realize their own potential. The Scrum Master facilitates the team to become self-organized by coaching them to come up with a work plan and make daily decisions by themselves.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 54 | Location 1237-1241 | Added on Monday, August 31, 2020 1:28:52 PM
+
+Removes Impediments: While the Scrum Master mentors the team to solve issues by themselves, they own and remove other impediments that are outside the influence of the Team. In organizations starting Scrum, the Scrum Teams may get a lot of external interruptions and requests for additional tasks. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 54 | Location 1240 | Added on Monday, August 31, 2020 1:36:54 PM
+
+Keep in mind for systems team.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 54 | Location 1241-1245 | Added on Monday, August 31, 2020 1:37:34 PM
+
+Champion of Transparency: The Scrum Master helps the team to increase transparency of planned work, actual progress, and impediments. The Scrum Master spends time detecting incomplete transparency by inspecting the artifacts, sensing patterns, listening closely to what is being said and not being said, and detecting differences between expected and real results. -------------------Question- 11-------------------------- Which of the following statements is true?
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 54 | Location 1241-1244 | Added on Monday, August 31, 2020 1:37:44 PM
+
+Champion of Transparency: The Scrum Master helps the team to increase transparency of planned work, actual progress, and impediments. The Scrum Master spends time detecting incomplete transparency by inspecting the artifacts, sensing patterns, listening closely to what is being said and not being said, and detecting differences between expected and real results.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 54 | Location 1255-1256 | Added on Monday, August 31, 2020 1:38:45 PM
+
+The Scrum Team can expect the Scrum Master to coach them to become a cross-functional team and help them create high-value products
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 54 | Location 1256 | Added on Monday, August 31, 2020 1:39:04 PM
+
+Icrease Davids work
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 54 | Location 1257-1259 | Added on Monday, August 31, 2020 1:39:56 PM
+
+The Scrum Team can expect the Scrum Master's help, whenever required, to find the best sub-techniques to accomplish their work within the Scrum framework. An example of a sub-technique is using a burn-down graphic to track progress of product completion and Sprint Backlog completion.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 55 | Location 1259 | Added on Monday, August 31, 2020 1:41:47 PM
+
+Should keep track of team complaints on the process and find a Scrum solution.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 54 | Location 1230-1231 | Added on Monday, August 31, 2020 1:42:23 PM
+
+Chapter 2.1 - Scrum Master - Scrum Guardian and Servant-Leader
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 54 | Location 1230 | Added on Monday, August 31, 2020 1:42:47 PM
+
+Important chapter!!!
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 55 | Location 1262-1263 | Added on Monday, August 31, 2020 1:43:40 PM
+
+Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 55 | Location 1263 | Added on Monday, August 31, 2020 1:44:45 PM
+
+Good example was the kickback fee backlog. Already ordered by sequence and with subtasks.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 55 | Location 1267-1268 | Added on Monday, August 31, 2020 1:45:28 PM
+
+Ensuring that goals, scope, and product domain are understood by everyone on the Scrum Team.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 56 | Location 1298-1300 | Added on Monday, August 31, 2020 1:48:36 PM
+
+The Scrum Master need not be a technical member of the Development Team. They can be full-time or part-time for a Scrum Team. They are usually a Scrum Master for more than one Scrum Team in parallel. It is mandatory for the Scrum Master to participate in all events except the Daily Scrum.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 56 | Location 1300 | Added on Monday, August 31, 2020 1:49:38 PM
+
+Here is where we differ in implementation. But I could potentially grow to a part time development position.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 56 | Location 1307-1320 | Added on Monday, August 31, 2020 1:51:41 PM
+
+Summary • The Scrum Master is responsible for promoting and supporting Scrum as defined in the Scrum Guide. Scrum Masters do this by helping everyone understand Scrum theory, practices, rules, and values. • The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team. • The Scrum Master also removes impediments and is the champion of transparency. • They facilitate Scrum events as requested or needed. • They serve the Product Owner in finding techniques for effective Product Backlog management, understanding product planning in an empirical environment, and knowing how to arrange the Product Backlog to maximize value. The Scrum Master ensures that goals, scope, and product domain are understood by everyone on the Scrum Team as well as possible. • They serve the Development Team in coaching self-organization and cross-functionality, helping to create high-value products, and removing impediments to the Development Team’s progress. • They serve the organization in its Scrum adoption, planning Scrum implementations within the organization, helping employees and stakeholders understand and enact Scrum and empirical product development, causing change that increases the productivity of the Scrum Team, and working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 57 | Location 1320 | Added on Monday, August 31, 2020 1:51:56 PM
+
+Important summary 
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 58 | Location 1351-1352 | Added on Monday, August 31, 2020 1:55:32 PM
+
+The Product Owner is the sole person responsible for managing the Product Backlog.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 59 | Location 1373-1374 | Added on Monday, August 31, 2020 1:57:38 PM
+
+Anybody wanting to change the priority must address the Product Owner.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 61 | Location 1427-1430 | Added on Monday, August 31, 2020 2:03:17 PM
+
+The team is SELF-ORGANIZED. The team is empowered in self-organization in such a way that no one, including the Product Owner, Scrum Master, or any other manager external to the Development Team directs or commands them on how to perform their work. The team self-organizes by focusing on the goal and working within the time-box.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 62 | Location 1437-1438 | Added on Monday, August 31, 2020 2:05:06 PM
+
+In this case, the issue faced by the Development Team is well within the influence of the Development Team to resolve. So, the Scrum Master should coach the team to resolve such items themselves.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 62 | Location 1438 | Added on Monday, August 31, 2020 2:05:22 PM
+
+If internal conflict.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 62 | Location 1442-1443 | Added on Monday, August 31, 2020 2:05:47 PM
+
+Individual Development Team members may have specialized skills and areas of focus, but accountability belongs to the Development Team as a whole.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 62 | Location 1443 | Added on Monday, August 31, 2020 2:06:15 PM
+
+More accountability in web team.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 62 | Location 1443-1443 | Added on Monday, August 31, 2020 2:06:38 PM
+
+The Sprint Goal binds the Team together.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 62 | Location 1457-1460 | Added on Monday, August 31, 2020 2:07:42 PM
+
+A Development Team may contain various specialists needed to achieve the Sprint Goal. For example, there could be Programmers, Testers, UI modelers, Architects, Technical writers, etc. But there is NO special name for any of them. Irrespective of their field of specialization, each one of them is called a Developer.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 63 | Location 1476-1477 | Added on Monday, August 31, 2020 2:09:10 PM
+
+The fact that the Development Team is self-organized does not mean that there are no managers for team members. But they may be “people aspect” managers and not “product development work aspect” managers.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 63 | Location 1483-1484 | Added on Monday, August 31, 2020 2:11:11 PM
+
+A Development Team decides that the frequency of the Daily Scrum should be reduced to once a week.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 63 | Location 1484 | Added on Monday, August 31, 2020 2:11:32 PM
+
+Scrum master should coach.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 63 | Location 1493-1494 | Added on Monday, August 31, 2020 2:11:56 PM
+
+The Development Team as whole and not the individual is accountable for Sprint progress.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 65 | Location 1531-1532 | Added on Monday, August 31, 2020 2:14:14 PM
+
+If the organization does not yet understand the Scrum concept, it is the responsibility of the Scrum Master to coach the organization as well the Development Teams.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 65 | Location 1543-1545 | Added on Monday, August 31, 2020 2:15:13 PM
+
+Scrum has a specific meaning for the term ‘stakeholder,’ which refers to people such as customers, users, and all those who have the commonality of having a specific interest and knowledge in a product.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 66 | Location 1561-1564 | Added on Monday, August 31, 2020 2:17:09 PM
+
+Correct answer is ‘a.’ -------------------Question- 25-------------------------- What can they expect from Scrum Teams?
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 66 | Location 1563-1564 | Added on Monday, August 31, 2020 2:17:16 PM
+
+What can they expect from Scrum Teams?
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 68 | Location 1576-1579 | Added on Monday, August 31, 2020 2:18:32 PM
+
+1. You are working as a Scrum Master on a team. Your organization plans to conduct a road show on Scrum across the board. You are asked to contribute to some related events. a) You will gladly volunteer because being a Scrum Master in an organization also involves the responsibility of coaching the organization.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 70 | Location 1626-1628 | Added on Monday, August 31, 2020 2:20:50 PM
+
+A Development Team is responsible for performing development work and meeting the Sprint Goal. If they have any issue that is within their influence to solve, they are responsible for resolving it. The Scrum Master is responsible for impediments that are outside the Development Team's influence
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 73 | Location 1688-1690 | Added on Monday, August 31, 2020 2:26:25 PM
+
+The Sprint Goal provides some flexibility to the Development Team. The scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned. Accordingly, the Product Backlog Items for the current Sprint can be modified as long as these changes do not endanger the Sprint Goal.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 74 | Location 1692-1694 | Added on Monday, August 31, 2020 2:27:05 PM
+
+Once the Sprint is in motion, the definition of "Done" for the current Sprint cannot be changed if the change will lead to a decrease in product quality. The team can inspect the need for changing the definition of "Done" during the last event of the Sprint, the Retrospective, and adjust as needed for the subsequent Sprints.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 74 | Location 1699-1700 | Added on Monday, August 31, 2020 2:27:56 PM
+
+However, only the Product Owner has the authority to cancel the Sprint, although they may do so under the influence of the stakeholders, Development Team, or Scrum Master.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 75 | Location 1729-1730 | Added on Monday, August 31, 2020 2:30:44 PM
+
+No individual leads or controls this meeting. The Scrum Master ensures that the event takes place and that attendants understand its purpose.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 75 | Location 1730 | Added on Monday, August 31, 2020 2:30:56 PM
+
+About sprint planning.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 75 | Location 1732-1733 | Added on Monday, August 31, 2020 2:31:37 PM
+
+The Scrum Master teaches the Scrum Team to keep it within the time-box. Its duration is up to eight hours for a one-month Sprint. For shorter Sprints, it is usually shorter.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 75 | Location 1742-1743 | Added on Monday, August 31, 2020 2:32:30 PM
+
+The Sprint Goal is a tool for team coherence.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 75 | Location 1746-1747 | Added on Monday, August 31, 2020 2:33:36 PM
+
+So, the Sprint Goal is a tool to verify and create this coherence. As the Development Team works, it keeps the Sprint Goal in mind. In order to satisfy the Sprint Goal, it implements the functionality and technology.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 75 | Location 1747-1749 | Added on Monday, August 31, 2020 2:33:49 PM
+
+If the work turns out to be different than what the Development Team expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 76 | Location 1754-1755 | Added on Monday, August 31, 2020 2:34:48 PM
+
+The Product Backlog Items selected for this Sprint plus the plan for delivering them is called the Sprint Backlog.
+==========
+Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened (Brosh, Allie)
+- Your Highlight on page 221 | Location 969-969 | Added on Tuesday, September 1, 2020 2:00:17 AM
+
+For a little while, I actually feel
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 78 | Location 1793-1794 | Added on Thursday, September 3, 2020 12:17:55 PM
+
+The Sprint Backlog increases the transparency of information about work planned and performed during the Sprint.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 78 | Location 1794-1795 | Added on Thursday, September 3, 2020 12:18:07 PM
+
+It is a highly visible, real-time picture of the work that the Development Team plans to accomplish during the Sprint.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 78 | Location 1795 | Added on Thursday, September 3, 2020 12:18:46 PM
+
+Should be real time. Doing better with the checklist.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 78 | Location 1796-1797 | Added on Thursday, September 3, 2020 12:19:08 PM
+
+Content: Product Backlog Items in scope for the Sprint (What) and the Development Team's plan for realizing the Sprint Goal (How). Each plan item has a description and estimate. The Sprint Backlog is also called a Forecast.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 78 | Location 1811-1812 | Added on Thursday, September 3, 2020 12:20:45 PM
+
+The Development Team modifies the Sprint Backlog throughout the Sprint, and the Sprint Backlog emerges during the Sprint.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 79 | Location 1821-1824 | Added on Thursday, September 3, 2020 12:21:37 PM
+
+The Sprint Backlog is collectively owned by the Development Team. There is no sole ownership of a Sprint Backlog Item by an individual team member, although they may work individually on an item. This is to ensure that there is increased transparency of work within the team, without an individual boundary.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 79 | Location 1823 | Added on Thursday, September 3, 2020 12:21:58 PM
+
+I feel like we can do this better.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 79 | Location 1824-1824 | Added on Thursday, September 3, 2020 12:22:16 PM
+
+The estimated total remaining time is calculated at least once a day before the Daily Scrum,
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 79 | Location 1824 | Added on Thursday, September 3, 2020 12:22:48 PM
+
+Maybe I should track this with the standup duration.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 79 | Location 1828-1829 | Added on Thursday, September 3, 2020 12:23:53 PM
+
+Should coach the team to collectively take ownership of the Sprint Backlog Items even though an individual works on a specific item.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 81 | Location 1875-1877 | Added on Thursday, September 3, 2020 12:27:24 PM
+
+One of the primary responsibilities of the Scrum Master for new teams is to coach them in the art of working to produce a useable Product Increment within short Sprints.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 81 | Location 1876 | Added on Thursday, September 3, 2020 12:27:40 PM
+
+Important for Systems team
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 81 | Location 1877-1879 | Added on Thursday, September 3, 2020 12:28:04 PM
+
+The road to excellence is a journey, and the team needs to go through this initial learning with the Scrum Master’s help.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 81 | Location 1879-1881 | Added on Thursday, September 3, 2020 12:28:23 PM
+
+When there are issues that are outside the team’s influence, they are called impediments. The Scrum Master needs to own these impediments and resolve them. For example, the lengthy testing cycle example above may be an organizational-level constraint that the Scrum Master needs to work with the larger Organization to find an alternative solution.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 82 | Location 1890-1891 | Added on Thursday, September 3, 2020 12:29:10 PM
+
+Continues this tracking->re-planning->communicating->controlling cycle every day.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 82 | Location 1886-1887 | Added on Thursday, September 3, 2020 1:43:57 PM
+
+Tracks the progress against the Sprint plan.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 82 | Location 1887 | Added on Thursday, September 3, 2020 1:44:07 PM
+
+Note this
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 83 | Location 1918-1919 | Added on Friday, September 4, 2020 8:17:35 AM
+
+If others are present, the Scrum Master ensures that they do not disrupt the meeting.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 83 | Location 1919-1921 | Added on Friday, September 4, 2020 8:17:51 AM
+
+The Scrum Master • ensures that the Development Team has the meeting and • teaches the Development Team to keep the Daily Scrum within the 15-minute time-box.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 83 | Location 1923-1924 | Added on Friday, September 4, 2020 8:18:31 AM
+
+In fact, the Daily Scrum is a key inspect and adapt opportunity used to identify any issues like an unexpected absence and adapt the next 24-hour plan to respond.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 84 | Location 1939-1939 | Added on Friday, September 4, 2020 8:19:42 AM
+
+The team starts by discussing the progress thus far.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 84 | Location 1939 | Added on Friday, September 4, 2020 8:20:12 AM
+
+Maybe I can start the sprint by giving the status
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 84 | Location 1942-1945 | Added on Friday, September 4, 2020 8:20:42 AM
+
+Here is an example of what might be used: • What did I do yesterday that helped the Development Team meet the Sprint Goal? • What will I do today to help the Development Team meet the Sprint Goal? • Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 86 | Location 1993-1994 | Added on Friday, September 4, 2020 8:23:44 AM
+
+The Development Team can reach out to technical/domain people outside the Scrum Team for help. However, later in the Sprint Retrospective, they need to inspect why they could not do it themselves.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 86 | Location 1994 | Added on Friday, September 4, 2020 8:23:59 AM
+
+Note the instances where systems was needed
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 88 | Location 2034-2035 | Added on Friday, September 4, 2020 8:26:49 AM
+
+The Increment is the most important artifact of all because it is the mark of the progress towards a business goal or vision.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 88 | Location 2039-2041 | Added on Friday, September 4, 2020 8:27:41 AM
+
+The team has a Product Backlog Item that is almost done. Can it be demonstrated in the Sprint Review? No. Any Product Backlog Item is incomplete if it does not meet the definition of "Done."
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 90 | Location 2081-2082 | Added on Friday, September 4, 2020 8:29:27 AM
+
+The Scrum Master ensures that the event takes place and that the attendees understand its purpose and teaches all to keep it within the time-box.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 90 | Location 2082 | Added on Friday, September 4, 2020 8:29:39 AM
+
+About sprint review
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 91 | Location 2104-2104 | Added on Friday, September 4, 2020 8:31:31 AM
+
+In the Product Burn-down Chart, the Sprints are shown on the x-axis. In the Sprint Burn-down Chart, the days
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 91 | Location 2104-2105 | Added on Friday, September 4, 2020 8:31:35 AM
+
+In the Product Burn-down Chart, the Sprints are shown on the x-axis. In the Sprint Burn-down Chart, the days of the Sprint are shown on the x-axis.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 93 | Location 2159-2161 | Added on Friday, September 4, 2020 8:35:40 AM
+
+Does the Retrospective also review the product or work outcome? No, the Product Increment is already reviewed by the Scrum Team and stakeholders in the Sprint Review. The Retrospective is about improving the way the product is built.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 93 | Location 2162-2163 | Added on Friday, September 4, 2020 8:35:54 AM
+
+During each Sprint Retrospective, the Scrum Team plans ways to increase product quality by adapting the definition of “Done” as appropriate.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 93 | Location 2163 | Added on Friday, September 4, 2020 8:36:04 AM
+
+Should work on this
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 95 | Location 2190-2192 | Added on Friday, September 4, 2020 8:38:14 AM
+
+Time-boxed Scrum events eliminate waste associated with traditional meetings.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 95 | Location 2193-2194 | Added on Friday, September 4, 2020 8:38:28 AM
+
+The Scrum Master guards the Scrum Framework and champions the Scrum rules including transparency.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 96 | Location 2212-2215 | Added on Friday, September 4, 2020 8:40:45 AM
+
+What happens if a Development Team completes the work before the Sprint end? If a team completes the work before the Sprint end, they may collaboratively decide to do additional work such as refining the Backlog, etc. and still complete the Sprint as planned. The Sprint duration is kept intact without contraction or expansion.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 99 | Location 2280-2282 | Added on Friday, September 4, 2020 8:45:21 AM
+
+A good guideline to differentiate Acceptance Criteria from the definition of “Done” is, “the definition of “Done” provides a checklist to take the Increment to a potentially shippable state, while the Acceptance Criteria focus on testing the business requirements.”
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 28 | Location 252-254 | Added on Sunday, September 6, 2020 8:36:15 AM
+
+aggressive black bear, Herrero suggests making a lot of noise, banging pots and pans together, throwing sticks and rocks, and ‘running at the bear’. (Yeah, right. You first, Professor.) On the other hand,
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 29 | Location 259-260 | Added on Sunday, September 6, 2020 8:36:57 AM
+
+Nothing worries and antagonizes a female bear more than to have people between her and her brood. Furious, she turned and gave chase – despite the bear’s lolloping gait it can move at up
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 28 | Location 257-258 | Added on Sunday, September 6, 2020 8:38:14 AM
+
+The fact is, no one can tell you what to do. Bears are unpredictable,
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 30 | Location 275-277 | Added on Sunday, September 6, 2020 8:41:34 AM
+
+The Times article also noted that bears are far more likely to attack humans in the spring following a bad berry year. The previous year had been a very bad berry year. I didn’t like the feel of any of this.
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 32 | Location 315-315 | Added on Sunday, September 6, 2020 8:45:03 AM
+
+and the next night I’ll say, “Hey, did I tell you about my back problems?”
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 32 | Location 315-318 | Added on Sunday, September 6, 2020 8:45:17 AM
+
+and he’ll say, “No, I don’t think so,” and we’ll do it all over again. It’ll be great.’ ‘It’ll be hell.’ ‘Yeah, I know,’ I said. * * *
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 43 | Location 424-425 | Added on Sunday, September 6, 2020 11:48:46 AM
+
+Avery was willing to accommodate the building of a scenic highway through the mountains; MacKaye thought it a betrayal of founding principles – and they never spoke again.
+==========
+A Walk In The Woods (Bryson)  
+- Your Highlight on page 73 | Location 834-835 | Added on Sunday, September 6, 2020 8:32:03 PM
+
+that the whole point of the experience is to remove yourself so thoroughly from the conveniences of everyday life that the most ordinary things
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Highlight on page 115 | Location 2575-2575 | Added on Friday, September 11, 2020 6:39:25 PM
+
+You can follow the approach recommended in Figure 22.
+==========
+Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation (Ali, Mohammed Musthafa Soukath)
+- Your Note on page 115 | Location 2575 | Added on Friday, September 11, 2020 6:39:32 PM
+
+How to learn
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 4-4 | Added on Sunday, September 13, 2020 7:24:50 PM
+
+Kaalkopjes zijn de enige paddenstoelen in Nederland die psilocybine bevatten
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 6-7 | Added on Sunday, September 13, 2020 7:25:55 PM
+
+Ook wordt stilgestaan bij de determinatie. (Determineren betekent vaststellen.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 12-13 | Added on Sunday, September 13, 2020 7:26:29 PM
+
+De vliegenzwam en de Mexicaanse en Hawaiiaanse paddenstoel zijn allemaal terug te vinden in beschrijvingen en tekeningen van vele eeuwen oud.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 14-15 | Added on Sunday, September 13, 2020 7:26:54 PM
+
+Heksen gebruikten daarentegen wel doornappels om te kunnen ‘vliegen’
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 21-23 | Added on Sunday, September 13, 2020 7:27:49 PM
+
+Het kaalkopje kreeg in 1838 voor het eerst een naam. Elias Magnus Fries noemde de paddenstoel destijds Agaricus semilanceatus. Hierna volgde een paar andere namen gegeven door verschillende mycologen, om uiteindelijk uit te komen op de naam Psilocybe semilanceata.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 24-25 | Added on Sunday, September 13, 2020 7:28:08 PM
+
+Albert Hoffman stelde in 1960 vast dat het de stof psilocybine was die voor het geestverruimende effect verantwoordelijk was.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 28-29 | Added on Sunday, September 13, 2020 7:28:32 PM
+
+Aangezien je kaalkopjes niet kunt kweken, kon je ze alleen in de gedroogde vorm kopen.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 32-33 | Added on Sunday, September 13, 2020 7:29:06 PM
+
+Eentje daarvan eindigde dramatisch; een minderjarig Frans meisje onder invloed van paddenstoelen sprong van een dak af en stierf. Het was dit incident dat de regering ertoe zette om een paddoverbod in te stellen.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 36-38 | Added on Sunday, September 13, 2020 7:29:41 PM
+
+Het is de stof psilocybine in kaalkopjes die ervoor zorgt dat je gaat trippen. De chemische naam voor deze component is 4-hydroxy-N. Een andere naam is 4-HO-DMT
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 36-39 | Added on Sunday, September 13, 2020 7:29:57 PM
+
+Het is de stof psilocybine in kaalkopjes die ervoor zorgt dat je gaat trippen. De chemische naam voor deze component is 4-hydroxy-N. Een andere naam is 4-HO-DMT. De stof is gerelateerd aan de actieve stof DMT in ayahuasca
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 39-40 | Added on Sunday, September 13, 2020 7:30:21 PM
+
+Helaas is psilocybine niet stabiel. Dit betekent dat wanneer de stof in aanraking komt met zuurstof er oxidatie plaatsvindt.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Note on Location 39 | Added on Sunday, September 13, 2020 7:31:06 PM
+
+Doesnt this contradict the book i read?
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 40-42 | Added on Sunday, September 13, 2020 7:31:32 PM
+
+Psilocybine is van zichzelf overigens niet psychoactief. Het moet in het lichaam eerst worden omgezet in psilocine. Het is psilocine dat zich in de hersenen aan bepaalde receptoren hecht waardoor je gaat trippen .
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 42-44 | Added on Sunday, September 13, 2020 7:31:48 PM
+
+Ze groeien in de herfst van september tot december. Kaalkopjes hebben vocht nodig om te ontspruiten en ze sterven bij de eerste nachtvorst. Vandaar dat je in oktober de meeste kans hebt ze te vinden.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 44-46 | Added on Sunday, September 13, 2020 7:32:08 PM
+
+Kaalkopjes groeien in graslanden en dan vooral op de wat nattere gronden. In het westen komen ze minder vaak voor dan in het oosten. Toch zijn ze ook in het westen te vinden en dan vooral in de duinen op zogenaamde oude duinakkertjes
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 46-49 | Added on Sunday, September 13, 2020 7:32:49 PM
+
+Deze akkertjes werden in het verleden aangelegd om zomerpeen, aardbeien en aardappelen op te laten groeien. Vaak werden stukken grond afgegraven tot aan de vochtige ondergrond. Veel van deze akkertjes werden in loop der tijd niet meer gebruikt, waardoor ze al snel begroeiden met een verstikkend pak gras. Om te voorkomen dat deze gebieden ontoegankelijk werden, zette men grazers in. Ook koos men er soms voor om de voedzame bodem af te gegraven. Hierdoor kwam er ruimte voor weiland met laag gras. Dit is de ideale plek voor het groeien van kaalkopjes.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 51-51 | Added on Sunday, September 13, 2020 7:33:06 PM
+
+Vooral op paardenmest groeien ze erg goed.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 54-54 | Added on Sunday, September 13, 2020 7:33:25 PM
+
+Wat veel mensen niet weten is dat er in Nederland drie soorten kaalkopjes te vinden zijn.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 54-55 | Added on Sunday, September 13, 2020 7:33:56 PM
+
+Het puntig kaalkopje (psilocybe semilanceata) is de bekendste. Deze komt vooral voor in het oosten van het land. Bijna alle informatie over kaalkopjes op Internet gaat over deze soort.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 56-57 | Added on Sunday, September 13, 2020 7:34:09 PM
+
+In het westen komt echter ook steeds vaker het blauwvoet kaalkopje (Psilocybe fimetaria) voor. Naast enkele Europese landen is deze paddenstoel alleen in Nieuw-Zeeland te vinden.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 57-58 | Added on Sunday, September 13, 2020 7:34:14 PM
+
+Dan bestaat er ook nog het slijmrandkaalkopje (Psilocybe liniformans). Deze is erg zeldzaam en komt bijna alleen in Nederland voor.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 58-60 | Added on Sunday, September 13, 2020 7:34:41 PM
+
+Het slijmrandkaalkopje is te onderscheiden aan een slijmrandje net onder de lamellen. Dit randje kun je er vanaf trekken als een soort van elastiekje. Het blauwvoet kaalkopje heeft een iets blauwere voet dan de andere kaalkopjes. Het puntig kaalkopje, de naam zegt het al, heeft een puntige hoed.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 61-62 | Added on Sunday, September 13, 2020 7:34:53 PM
+
+Het is zeer moeilijk, haast onmogelijk om kaalkopjes te kweken. Dit heeft te maken met het feit dat deze paddenstoelen zich voeden met rottende graswortels
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 63-64 | Added on Sunday, September 13, 2020 7:35:39 PM
+
+Ze bevatten dezelfde psychoactieve stof als de Mexicaanse en Hawaiiaanse paddenstoelen. Toch hebben kaalkopjes een ander effect.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 66-67 | Added on Sunday, September 13, 2020 7:35:55 PM
+
+Zo is er ook een verschil in effect te ervaren als je kaalkopjes vergelijkt met andere psilocybine houdende paddenstoelen.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 67-69 | Added on Sunday, September 13, 2020 7:36:17 PM
+
+Kaalkopjes worden beschouwd als hele lieve en vriendelijke paddenstoelen. Het zijn tevens sociale paddenstoelen. Met andere woorden je wordt er empathisch van, je gaat veel kletsen en vaak wordt je ook vrolijk. Soms ontstaan er lachkicks. Kaalkopjes resulteren meestal niet in sterke hallucinaties zoals de Hawaiiaanse paddenstoelen kunnen opwekken. Wel kunnen ze leiden tot diepere inzichten.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 70-74 | Added on Sunday, September 13, 2020 7:36:46 PM
+
+Vaak wordt beweerd dat het gevaarlijk is om paddenstoelen te plukken en op te eten. Dit is echter zeer overdreven. Er zijn inderdaad een aantal zeer giftige paddenstoelen, maar dat geldt evengoed voor bessen en die durven mensen ook te plukken en te eten. Wanneer je kaalkopjes gaat plukken dan moet je weten dat er enkele giftige paddenstoelen zijn die op kaalkopjes lijken. De mate van giftigheid van deze gelijkende paddenstoelen is echter gering. Mocht je een giftige soort plukken die op een kaalkopje lijkt dan loop je de kans om misselijk te worden en in het ergste geval te gaan braken.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 76-78 | Added on Sunday, September 13, 2020 7:37:13 PM
+
+Verdiep je verder goed in het determineren. Hieronder staat uitgelegd op welke kenmerken je moet letten. Je kunt ook een foto maken en deze plaatsen in een paddenstoel-determinatie-groep op Facebook. Anderen zullen je graag helpen bij de determinatie.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Note on Location 77 | Added on Sunday, September 13, 2020 7:37:43 PM
+
+Shoud do this on reddit. Maybe i shoud invest time over cutting reddit.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 79-80 | Added on Sunday, September 13, 2020 7:37:51 PM
+
+Je vindt ze op veen- en kleigronden waarop gras groeit, zoals een oude kleidijk of afgegraven duinakkertje.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 79-81 | Added on Sunday, September 13, 2020 7:38:09 PM
+
+Je vindt ze op veen- en kleigronden waarop gras groeit, zoals een oude kleidijk of afgegraven duinakkertje. Deze grond is schraal (voedingsarm) of licht bemest. Vind je een paddenstoel op een andere plek, bijvoorbeeld in een bos of op een boom, dan is het zeker geen kaalkopje.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 81-84 | Added on Sunday, September 13, 2020 7:38:27 PM
+
+Ze hebben een kegelvormige hoed met een spits bultje. Deze is 5 tot 15 mm in doorsnee en 6 tot 13 mm hoog. Als ze vers zijn, zijn ze olijfgroen tot grijsbruin. Laat je ze drogen dan verkleuren ze naar strogeel tot okerkleurig. De sporen zijn zwart tot paarsachtig-bruin. De lamellen zijn bleek bruin-grijs tot purperbruin. De steel is 5 tot 9 cm lang en ongeveer 1 tot 2 mm in doorsnee.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 84-86 | Added on Sunday, September 13, 2020 7:38:50 PM
+
+De kleur van de steel is wittig tot crème. De voet heeft soms een blauwgroene tint. Het vlees van de hoed is grijsbruin tot beige. De smaak is mild en ze ruiken een beetje naar radijs. Opvallend is dat ze een transparant slijmlaagje om zich heen hebben dat je er met een pincet vanaf kunt trekken.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 86-88 | Added on Sunday, September 13, 2020 7:39:08 PM
+
+Wanneer je ze een beetje knakt of buigt, zal er een blauwe verkleuring ontstaan. Zie je deze kleur dan weet je zeker met kaalkopjes te maken hebben. Deze kleur ontstaat namelijk doordat de psilocybine oxideert aan de lucht. Andere paddenstoelen bevatten deze stof niet en vertonen
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 86-88 | Added on Sunday, September 13, 2020 7:39:12 PM
+
+Wanneer je ze een beetje knakt of buigt, zal er een blauwe verkleuring ontstaan. Zie je deze kleur dan weet je zeker met kaalkopjes te maken hebben. Deze kleur ontstaat namelijk doordat de psilocybine oxideert aan de lucht. Andere paddenstoelen bevatten deze stof niet en vertonen daardoor niet eenzelfde verkleuring.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 89-90 | Added on Sunday, September 13, 2020 7:39:35 PM
+
+Voor een goed effect van de kaalkopjes kun je ze het best op een lege maag innemen. Je kunt de paddenstoelen kauwen en daarna doorslikken. Hoe langer je kauwt, hoe beter de psychoactieve stoffen worden opgenomen door je lichaam. Het smaakt helaas niet zo lekker.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 91-93 | Added on Sunday, September 13, 2020 7:39:51 PM
+
+Daarom kun je er ook voor kiezen om een thee te zetten van de paddenstoelen. Snijdt ze in kleine stukjes en laat ze een uurtje trekken in heet water. Zorg ervoor dat het water niet kookt, want daardoor breekt de psilocybine af. Het is mogelijk om de theepot op een theelichtje te zetten en zo rustig te laten trekken. Drink
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 91-93 | Added on Sunday, September 13, 2020 7:39:55 PM
+
+Daarom kun je er ook voor kiezen om een thee te zetten van de paddenstoelen. Snijdt ze in kleine stukjes en laat ze een uurtje trekken in heet water. Zorg ervoor dat het water niet kookt, want daardoor breekt de psilocybine af. Het is mogelijk om de theepot op een theelichtje te zetten en zo rustig te laten trekken. Drink de thee op inclusief de stukjes paddenstoel.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 93-95 | Added on Sunday, September 13, 2020 7:40:20 PM
+
+Wanneer je wat citroensap aan de paddenstoelenthee toevoegt, wordt de psilocybine in het water omgezet in psilocine. Zoals eerder gezegd is het de psilocine die verantwoordelijk is voor het psychedelische effect. Citroensap zorgt er dus voor dat de trip sneller begint. Als bijkomend voordeel heb je ook minder last van je maag.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 96-101 | Added on Sunday, September 13, 2020 7:40:54 PM
+
+Paddenstoelen die gekweekt worden zijn qua sterkte redelijk constant. Kaalkopjes komen alleen in de natuur voor, waardoor de sterkte varieert. De sterkte hangt namelijk af van het moment wanneer je ze plukt. Omdat de psilocybine alleen onder het vel wordt aangemaakt, zullen (bij een gelijk gewicht) kleine paddenstoelen ten opzichte van grote paddenstoelen sterker zijn. Probeer er daarom eerst tien á vijftien uit en kijk wat het effect is. Bepaal op deze manier de juiste dosis voor een volgende trip. Besef wel dat na een trip het een paar weken duurt, voordat je weer een optimaal effect zult ervaren. Daarom is het verstandig om de kaalkopjes te laten drogen, zodat je er langere tijd plezier van kunt hebben.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 101-103 | Added on Sunday, September 13, 2020 7:41:12 PM
+
+Kaalkopjes kunnen resulteren in maagpijn. Zoals hierboven is uitgelegd, kan dit voor een deel voorkomen worden door thee te zetten van de paddenstoelen en daar eerst wat citroensap bij te doen. Mocht je maagpijn krijgen, wees gerust, meestal duurt het maar een half uurtje
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 103-104 | Added on Sunday, September 13, 2020 7:41:23 PM
+
+Verder kun je een beetje pijnlijke ledematen krijgen. Je armen en benen voelen mogelijk zwaarder aan. Neem je teveel dan bestaat de kans dat je verward raakt.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 104-104 | Added on Sunday, September 13, 2020 7:41:30 PM
+
+In het ergste geval kom je in een bad trip terecht. Kaalkopjes
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 104-105 | Added on Sunday, September 13, 2020 7:41:42 PM
+
+zijn echter vrij vriendelijk in vergelijking met andere paddenstoelen. Heb je nog nooit getript, dan zijn dit prima paddenstoelen om eens mee te beginnen
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 107-108 | Added on Sunday, September 13, 2020 7:42:05 PM
+
+Je kunt tijdens een paddenstoelentrip blowen, besef wel dat wiet de effecten van paddenstoelen aanzienlijk kan versterken.
+==========
+Kaalkopjes (Psilocybe semilanceata) - Encyclopedie (azarius.nl)
+- Your Highlight on Location 109-110 | Added on Sunday, September 13, 2020 7:42:21 PM
+
+Heb je na het lezen zin gekregen om op zoek te gaan naar deze mysterieuze paddenstoel? Dan is een georganiseerde excursie om kaalkopjes te vinden misschien iets voor jou
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 3 | Location 141-143 | Added on Sunday, September 13, 2020 7:43:46 PM
+
+High Intensity Interval Training (HIIT) allows more people to see measurable improvement in as few as 14 days with just 3 sessions of 20 minute workouts each week.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 3 | Location 148-149 | Added on Sunday, September 13, 2020 7:44:18 PM
+
+This workout involves brief intervals of extremely high intensity activity alternated with recovery periods that are repeated for a total of only 20 to 30 minutes of exercise.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 5 | Location 178-179 | Added on Sunday, September 13, 2020 7:45:24 PM
+
+HIIT or High Intensity Interval Training is a specific type of athletic workouts that alternate quick, intense bursts of exercise followed by short recovery periods.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 5 | Location 181-183 | Added on Sunday, September 13, 2020 7:45:40 PM
+
+The real key to HIIT is that the intense phase of the exercise is done at nearly 100% effort and the recovery phase is movement at 60% to 70% of maximum effort, still within the fat burning range.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 5 | Location 183-193 | Added on Sunday, September 13, 2020 7:45:52 PM
+
+The basic features setting HIIT apart from other workout routines include: • HIIT uses all major muscle groups • Is performed only 3 times per week • Alternates cardio and full-body power moves • Takes only 20 to 30 minutes • Maximizes weight loss without loss of muscle mass
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 7 | Location 202-203 | Added on Sunday, September 13, 2020 7:47:07 PM
+
+It was discovered that an athlete suffers exhaustion and lactic acid build-up when performing different activities even though the work level was the same as the workout that was ‘easy’.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 8 | Location 223-223 | Added on Sunday, September 13, 2020 7:48:27 PM
+
+Everyone puts in as close to 100% intensity as possible
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 8 | Location 225-226 | Added on Sunday, September 13, 2020 7:48:38 PM
+
+Another tremendous advantage of HIIT workouts is that they are quick and can be done anytime and anywhere
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 9 | Location 231-232 | Added on Sunday, September 13, 2020 7:48:56 PM
+
+High Intensity Interval Training involves coordinated effort of all the body’s muscle groups and systems to bring about the most rapid weight loss (if that is the intention) while improving strength, endurance and overall physical ability.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 9 | Location 233-235 | Added on Sunday, September 13, 2020 7:49:08 PM
+
+Simply raising the heart rate is not enough – HIIT requires true all-out effort that should leave you exhausted at the end of the workout.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 9 | Location 235-262 | Added on Sunday, September 13, 2020 7:50:06 PM
+
+When done properly, HIIT offers many benefits over other, more traditional types of cardio workouts and other exercise programs. • Increases metabolism: The intensity of the HIIT workout boosts metabolism for up to 48 hours after completing a full routine. Production of Human Growth Hormone (HGH) is stimulated which helps to increase caloric burn, especially fat, as well as slows the aging process. • Increases ‘afterburn effect’: HIIT sessions increase the body’s need for oxygen during recovery – ‘Excess Post-Exercise Oxygen Consumption’ (EPOC) – which helps burn more fat and calories than even-paced workouts of a long duration or traditional aerobic activity. • Improves aerobic capacity in about 2 weeks as much as 6 to 8 weeks of traditional endurance training. • Improves heart health: HIIT gets you to the anaerobic zone quicker and more efficiently. • Reduces blood-sugar levels in Type 2 diabetics in as little as 2 weeks. • Eliminates exercise boredom: Short intervals and the incorporation of many different types of activities keep HIIT workouts fresh and motivating. • Challenging: With short-term goals, it is easy to see progress and feel success. • Quick: HIIT workouts should not last more than 20 or 30 minutes so they can fit into anyone’s schedule. • Convenient: HIIT can be performed anywhere with a minimum of equipment or just your own body weight so it is great for at home, on the road or in the gym.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 11 | Location 266-268 | Added on Sunday, September 13, 2020 7:50:26 PM
+
+Although HIIT workouts can be devised with any activity utilizing timed intervals of intense work and recovery, there are several programs with specific guidelines.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 11 | Location 268-272 | Added on Sunday, September 13, 2020 7:50:57 PM
+
+The Fartlek Method is essentially interval training and can be adapted to virtually any activity although it was originally designed to improve the performance of runners. The main point of this method is to vary the intensity of portions of your workout, alternating slow and moderate paced movement with maximum intensity bursts. Speed and intensity can be adjusted along with actual duration of activity and rest periods that imitate competitive action.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 11 | Location 272-275 | Added on Sunday, September 13, 2020 7:51:17 PM
+
+Fartlek works both the aerobic and anaerobic systems and reduces the boredom of steady-paced activity such as running, swimming or biking. Timing can be an issue, especially when you want to do multiple sets so a coach, partner or pre-recorded play-list are ways to stay on track.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 11 | Location 279-283 | Added on Sunday, September 13, 2020 7:52:13 PM
+
+Ideally, the athlete performs at 170% of VO2max in alternating intervals of 20 seconds work and 10 seconds of recovery for 8 to 10 sets. A full Tabata workout actually lasts only 4 to 5 minutes (after a 5 minute warm up) due to the extreme exertion required and should be done only 2 to 4 times per week.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Note on page 11 | Location 282 | Added on Sunday, September 13, 2020 7:52:25 PM
+
+Tabata
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 106 | Location 1654-1657 | Added on Sunday, September 13, 2020 7:53:18 PM
+
+What is VO2max? VO2max refers to the maximum amount of oxygen a person can utilize during intense exercise and is the measure of an athlete’s cardiovascular fitness and level of endurance.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 11 | Location 283-289 | Added on Sunday, September 13, 2020 7:53:56 PM
+
+The ‘Gibala Regimen’, also known as ‘The Little Method’ has two workout programs suitable for both athletes and beginners. Studied at McMaster University, Canada, this method involves 3 minutes of warm up, and intervals of 60 seconds of intense activity (95% of VO2 max) followed by 75 seconds of rest with 8 to 12 reps. The ‘lighter’ approach uses the same warm up but intervals of 60 seconds of work (80-95% of VO2 max) with 60 seconds of recovery and a cool down period. This method can be performed 3 times per week.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 12 | Location 289-294 | Added on Sunday, September 13, 2020 7:54:30 PM
+
+The ‘10-20-30’ program, devised by Danish researchers whose study was published in 2012, has also proven to have tremendous results regarding overall endurance training, reducing blood pressure and cholesterol in athletes and casual participants. This protocol involves a 5 minute warm up and intervals of 30 seconds of low intensity, 20 seconds of medium intensity and 10 seconds of high intensity repeated 5 times, followed by 2 minutes of rest and repeated for a total of 4 or 5 sets, all of which are completed within 20 to 30 minutes.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 13 | Location 297-301 | Added on Sunday, September 13, 2020 7:55:07 PM
+
+Essentially, HIIT combines the concepts of interval and cross training for an overall, full-body workout at an intense level for maximum calorie burn and long-term residual effects. To compare HIIT to either type of workout – just intervals or just cross training - is to look at only half the picture. Additionally, any activity such as running or weight lifting that targets just one area or basic set of motions is incomplete in terms of overall fitness.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 13 | Location 304-310 | Added on Sunday, September 13, 2020 7:55:51 PM
+
+Several examples that can be used as part of a HIIT plan include: CrossFit is a program that was developed by combining different types of fitness training to achieve the most significant overall fitness results without over-emphasizing any one particular area. CrossFit’s broad focus applies to the improvement of agility, balance, cardio-vascular endurance, muscle strength, power, speed and stamina. It is a gym-based program that utilizes a wide range of equipment and the input of trainers.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 13 | Location 310-314 | Added on Sunday, September 13, 2020 7:56:04 PM
+
+MetCon3 at Senergy Fitness is another intense workout that combines strength training and anaerobic conditioning drills. This is a circuit-style timed workout performed in a gym with a combination of 4 to 10 exercises repeated in multiple rounds with little rest. The goal is to complete as many reps as possible within the time allowed while maintaining good form and remaining near your anaerobic threshold.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 13 | Location 314-318 | Added on Sunday, September 13, 2020 7:56:30 PM
+
+Turbo Fire (HIIT) and the Insanity Workout provides high-energy cardio exercise without the use of exercise machines or other pieces of equipment so it can be enjoyed in a class or at home. While Turbo Fire incorporates HIIT philosophy, it is not a complete HIIT program. It focuses on cardio kickboxing while the Insanity Workout involves calisthenics, cardio, plyometrics and sports drills.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 13 | Location 318-326 | Added on Sunday, September 13, 2020 7:56:44 PM
+
+Zumba and dance fitness classes enjoy a great deal of popularity because they are fun and can be done in a class or at home with the help of a video or DVD. The drawback in terms of overall fitness is that these activities are primarily cardio and don’t address muscle strength or different muscle groups. Concerns with HIIT Programs The obvious concern regarding High Intensity Interval Training is, of course, the intensity.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 13 | Location 318-321 | Added on Sunday, September 13, 2020 7:56:55 PM
+
+Zumba and dance fitness classes enjoy a great deal of popularity because they are fun and can be done in a class or at home with the help of a video or DVD. The drawback in terms of overall fitness is that these activities are primarily cardio and don’t address muscle strength or different muscle groups.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 15 | Location 325-327 | Added on Sunday, September 13, 2020 7:57:08 PM
+
+The obvious concern regarding High Intensity Interval Training is, of course, the intensity. You must be in relatively good health and at a respectable fitness level before tackling the demands of HIIT.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 15 | Location 328-330 | Added on Sunday, September 13, 2020 7:57:40 PM
+
+many options for workout disciplines, you can find those that create the least stress or discomfort. For example, a stationary bike or swimming can be much easier for many people than running.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 15 | Location 330-331 | Added on Sunday, September 13, 2020 7:57:51 PM
+
+Using resistance bands instead of weights presents another option that better suits some preferences and ability levels.
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 15 | Location 333-336 | Added on Sunday, September 13, 2020 7:58:17 PM
+
+Intensity is measured differently for every individual and there are plenty of HIIT plans that allow you to get used to the demands of the program at your own pace. The beauty of HIIT is that is incorporates intense and moderate activity in a simple ratio so if you can’t sustain the hard work for 1 minute, aim for just 30 seconds and set your ‘recovery’ period accordingly. (Intervals and timing will be discussed in later chapters.).
+==========
+HIIT: The 20-Minute Dream Body with High Intensity Interval Training (HIIT) (HIIT Made Easy Book 1) (Powers, John)
+- Your Highlight on page 15 | Location 336-340 | Added on Sunday, September 13, 2020 7:58:44 PM
+
+Another area for concern with HIIT workouts is nutrition. It is important to understand not only your body’s overall caloric needs but also the sources of those calories in order to properly fuel your muscles for the demands you will place on them. HIIT creates much more complex physiological reactions within the body than traditional exercise routines.
+==========
+Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened (Brosh, Allie)
+- Your Highlight on page 273 | Location 1193-1195 | Added on Wednesday, September 16, 2020 12:32:36 AM
+
+I don’t like being inconvenienced, and I especially don’t like being inconvenienced too many times in a row. If something I don’t like happens, then several more things that I don’t like happen directly afterward, that is too many. They shouldn’t cluster like that. Unfortunately, that’s just how probability works.
+==========
+Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened (Brosh, Allie)
+- Your Highlight on page 272 | Location 1189-1191 | Added on Wednesday, September 16, 2020 12:32:55 AM
+
+Sometimes expectations arise as a result of an oversight on my part. But when there’s a snag in my plans because I failed to account for something, it still feels like reality’s fault.
+==========
+Battleborn (Watkins, Claire Vaye)
+- Your Highlight on page 29 | Location 363-366 | Added on Wednesday, September 16, 2020 12:54:54 AM
+
+Like all our memories, we like to take it out once in a while and lay it flat on the kitchen table, the way my wife does with her sewing patterns, where we line up the shape of our life against that which we thought it would be by now.
+==========
+Battleborn (Watkins, Claire Vaye)
+- Your Highlight on page 33 | Location 406-407 | Added on Wednesday, September 16, 2020 1:01:20 AM
+
+Sometimes love is a wound that opens and closes, opens and closes, all our lives.
+==========
