@@ -1,0 +1,27 @@
+- Highlights & Notes
+    - (page 29) What on earth would I do if four bears came into my camp? Why, I would die, of course. Literally shit myself lifeless. I would blow my sphincter out of my backside like one of those unrolling paper streamers you get at children’s parties – I dare say it would even give a merry toot – and bleed to a messy death in my sleeping bag.
+    - (page 32) She gave me her pull-the-other-one look. ‘You have nothing in common.’ ‘We have everything in common. We’re forty-four years old. We’ll talk about haemorrhoids and lower back pain and how we can’t remember where we put anything
+        - So Shai hahaha
+    - (page 68) Even at busy times, however, the woods are great providers
+    - (page 68) Even at busy times, however, the woods are great providers of solitude, and I encountered long periods of perfect aloneness
+    - (page 68) Even at busy times, however, the woods are great providers of solitude, and I encountered long periods of perfect aloneness, when I didn’t see another soul for hours,
+        - I should plan more hikes for more solitude.
+    - (page 68) adjust my pack. We seemed to be looking out for
+    - (page 69) I have long known that it is part of God’s plan for me to spend a little time with each of the most stupid people on earth, and Mary Ellen was proof that even in the Appalachian woods I would not be spared.
+    - (page 93) Distance changes utterly when you take the world on foot. A mile becomes a long way, two miles literally considerable, ten miles whopping, 50 miles at the very limits of conception. The world, you realize, is enormous in a way that only you and a small community of fellow hikers know. Planetary scale is your little secret.
+    - (page 93) Life takes on a neat simplicity, too. Time ceases to have any meaning. When it is dark you go to bed and when it is light again you get up, and everything in between is just in between. It’s quite wonderful, really.
+    - (page 111) a pugnacious tone, ‘Do you know what that
+    - (page 115) They are home to 130 native species of tree. The whole of Europe has just 85.
+    - (page 155) For all its mass, a tree is a remarkably delicate thing. All of its internal life exists within three paper-thin layers of tissue, the phloem, xylem and cambium, just beneath the bark, which together form a moist sleeve around the dead heartwood.
+    - (page 156) Some species of oak release a chemical that tells other oaks in the vicinity that an attack is under way. In response, the neighbouring oaks step up their tannin production the better to withstand the coming onslaught.
+    - (page 160) If there is one thing the AT teaches, it is low-level ecstasy – something we could all do with more of in our lives.
+    - (page 160) Hunger, too, follows a defined pattern. On the first night you are starving for your noodles; on the second night you are starving but wish it wasn’t noodles; on the third you don’t want the noodles but know you had better eat something; by the fourth you have no appetite at all but just eat because that is what you do at this time of day. I can’t explain it, but it’s strangely agreeable.
+        - Like fasting
+    - (page 28) aggressive black bear, Herrero suggests making a lot of noise, banging pots and pans together, throwing sticks and rocks, and ‘running at the bear’. (Yeah, right. You first, Professor.) On the other hand,
+    - (page 29) Nothing worries and antagonizes a female bear more than to have people between her and her brood. Furious, she turned and gave chase – despite the bear’s lolloping gait it can move at up
+    - (page 28) The fact is, no one can tell you what to do. Bears are unpredictable,
+    - (page 30) The Times article also noted that bears are far more likely to attack humans in the spring following a bad berry year. The previous year had been a very bad berry year. I didn’t like the feel of any of this.
+    - (page 32) and the next night I’ll say, “Hey, did I tell you about my back problems?”
+    - (page 32) and he’ll say, “No, I don’t think so,” and we’ll do it all over again. It’ll be great.’ ‘It’ll be hell.’ ‘Yeah, I know,’ I said. * * *
+    - (page 43) Avery was willing to accommodate the building of a scenic highway through the mountains; MacKaye thought it a betrayal of founding principles – and they never spoke again.
+    - (page 73) that the whole point of the experience is to remove yourself so thoroughly from the conveniences of everyday life that the most ordinary things

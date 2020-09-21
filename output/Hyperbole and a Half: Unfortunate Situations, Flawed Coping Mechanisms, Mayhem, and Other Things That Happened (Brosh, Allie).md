@@ -1,0 +1,7 @@
+- Highlights & Notes
+    - (page 40) For me, motivation is this horrible, scary game where I try to make myself do something while I actively avoid doing it.
+    - (page 42) But I keep allowing it to happen because, to me, the future doesn’t seem real. It’s just this magical place where I can put my responsibilities so that I don’t have to be scared while hurtling toward failure at eight hundred miles per hour.
+    - (page 125) I tried to get out more, but most fun activities just left me existentially confused or frustrated with my inability to enjoy them.
+    - (page 221) For a little while, I actually feel
+    - (page 273) I don’t like being inconvenienced, and I especially don’t like being inconvenienced too many times in a row. If something I don’t like happens, then several more things that I don’t like happen directly afterward, that is too many. They shouldn’t cluster like that. Unfortunately, that’s just how probability works.
+    - (page 272) Sometimes expectations arise as a result of an oversight on my part. But when there’s a snag in my plans because I failed to account for something, it still feels like reality’s fault.

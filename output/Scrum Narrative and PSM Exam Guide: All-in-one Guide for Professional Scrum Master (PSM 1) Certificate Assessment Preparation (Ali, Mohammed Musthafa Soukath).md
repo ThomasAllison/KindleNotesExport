@@ -1,0 +1,163 @@
+- Highlights & Notes
+    - (page 9) How a Product is built using the traditional way – Waterfall
+        - Funny to have discussed this with Bart.
+    - (page 12) Empiricism theory is based on the concept that complex problems are hard to predict.
+    - (page 13) The small team creates a product Increment which is a usable outcome, at the end of these few weeks.
+        - We should focus more on this. Bart already stressed this.
+    - (page 21) The Scrum Master manages how Scrum is implemented.
+        - My role definition.
+    - (page 21) None of these management positions, such as Product Owner, Scrum Master, etc. involve managing people or unilaterally controlling the project plan or tasks.
+    - (page 22) For example, in a Development Team that builds software, each of the Developers could be a specialist in an individual area. But there is no special role assigned to them.
+        - Shoud keep this up in our team. We shouldn't share all knowledge. But maybe we can have David pick up more Django tests.
+    - (page 23) The Product Owner feeds the list of ordered product features to the team.
+        - The big role Bart has.
+    - (page 24) Ultimate authority of the team’s scope of work:
+        - Bart shoud have power over the direction of Hypernode. More alignment between Web and Sys maybe?
+    - (page 24) Every Sprint must create at least one piece of functionality that is useable by the intended users. Only then can it lead to inspection, usage, and useful feedback. So, the Increment which is a body of inspectable and usable outcome, is the only measure of progress in Scrum.
+        - Should ask Barts opinion on this.
+    - (page 24) (Burn-down),
+    - (page 25) Scrum – A new way of leading by coaching
+        - Great quote that captures the Scrum essence.
+    - (page 25) This leadership model is called servant leadership.
+        - Great name.
+    - (page 25) In Scrum, the person playing the servant-leader role is called the Scrum Master. The Scrum Master serves the team by coaching them to work together for a common goal irrespective of their individual skills. The Scrum Master mentors the team so that it becomes self-sufficient in their product development ownership.
+        - This is what I should aim for.
+    - (page 26) Scrum Master is a management position in Scrum. The Scrum Master manages the Scrum Implementation. The Scrum Master coaches the Scrum Team to realize their potential. They are not just teachers or coaches. They are responsible for many other activities that are instrumental in transforming teams into value creators.
+        - Manager of Scrum, coach of the developers.
+    - (page 26) Scrum Team runs into issues that prevent it from achieving their goal and if these issues are outside the team’s influence, the Scrum Master owns these impediments and resolves them.
+        - Example of critical role
+    - (page 26) The Scrum Master also shields the team from unnecessary external interruptions, by helping those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t.
+        - Important to keep externals at bay.
+    - (page 26) The Scrum Master sets the goals for the team to improve their way of working every Sprint.
+        - What I like to do in the retro meetings.
+    - (page 28) The Scrum Master is responsible for promoting and supporting Scrum as defined in the Scrum Guide. Scrum Masters do this by helping everyone understand Scrum theory, practices, rules, and values.
+        - Shoud read the Scrum guide.
+    - (page 28) The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
+    - (page 30) Transparency:
+    - (page 30) Inspection:
+    - (page 30) Adaptation:
+    - (page 32) Scrum Teams live by five values: commitment, courage, focus, openness, and respect.
+    - (page 33) The definition of ‘Done’ should have conditions that the Product Increment must meet to be released to production.
+        - Maybe we shoud set a DoD.
+    - (page 34) See agilemanifesto.org for more information.
+    - (page 34) Scrum explicitly lists “Understanding and practicing agility” as one of the services that the Scrum Master provides
+    - (page 34) Scrum explicitly lists “Understanding and practicing agility” as one of the services that the Scrum Master provides to a team.
+        - Should read up on Agile.
+    - (page 35) ScrumBut refers to an adjustment or modification made to Scrum so that the organization can hide the problem instead of addressing it.
+    - (page 41) The inputs to the first Sprint are the Product Backlog and projected Sprint capacity of the Development Team.
+    - (page 42) Once a Scrum Team is staffed, the team is maintained as a constant talent pool that is available throughout the journey.
+    - (page 43) The expected technical quality is made transparent by the definition of “Done.”
+        - Again we should work on our DoD
+    - (page 43) During each Sprint Retrospective, the Scrum Team plans ways to increase product quality by adapting the definition of “Done” as appropriate.
+        - We should dedicate a part of our retro to this
+    - (page 43) As a Scrum Team matures, it is expected that their definition of “Done” will expand to include more stringent criteria for higher quality.
+    - (page 43) The Scrum Master manages the communication at the periphery of the team, such as multiple departments of the organization vs. the Development Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
+    - (page 44) Development Teams do not create a big upfront design before they start Sprints. Instead they evolve the design.
+        - Great way of phrasing
+    - (page 44) In the Sprint Planning, this skeleton design is revisited and evolved to a finer level.
+        - Sprint planning should have the designs ready. We should not have to wait on a design.
+    - (page 45) Scrum is immutable.
+    - (page 45) The Ongoing Act of Product Backlog Refinement – Starts before the first Sprint and continues
+    - (page 45) A Scrum Team should not wait until Sprint Planning to refine the items in a “just in time” manner. It is good practice to have a sufficient number of items in a “Ready” state for at least one or two upcoming Sprints.
+        - Just like with the designs, maybe planning a little further would be nice.
+    - (page 46) Refinement usually consumes no more than 10% of the capacity of the Development Team.
+    - (page 46) Product Backlog Items are decomposed by analyzing their intent. Each item is added with a description, order, estimate, and value.
+    - (page 46) Spike is a time-boxed research activity to prove or disprove something and gain more clarity.
+        - Maybe we can introduce this in some way. I think Nick qould enjoy and be good at this.
+    - (page 47) Fig 12- Sample of Product Backlog
+        - Thinking about the value. Kinda like the SSH change Rick didn't agree with.
+    - (page 47) Defining the definition of “Done,” which can provide clarity on the required work standard
+    - (page 48) Parameters like timelines and budget are reviewed in the Sprint Review. Work standards like definition of "Done" are reviewed in the Sprint Retrospective.
+        - Great Table!!
+    - (page 52) What is their responsibility?
+    - (page 53) In such conflicting situations, a Scrum Master teaches both the Product Owner and the Development Team about their empowerment and balances. So, we can see that there could be situations involving conflict of interest if one person plays both roles. Let us examine this further.
+        - What a great chapter
+    - (page 54) • Scrum Coach: The Scrum Master coaches the Scrum Team and ensures that it understands and adheres to the Scrum way of working that include Scrum theory, practices, rules, and values. As needed, the Scrum Master facilitates the events for the Product Owner and Development Team and ensures timeboxing.
+        - I should take charge in planning Scrum related meetings.
+    - (page 54) Servant Leadership: Instead of commanding and controlling, the Scrum Master has a strong inclination to serve the team by helping them to realize their own potential. The Scrum Master facilitates the team to become self-organized by coaching them to come up with a work plan and make daily decisions by themselves.
+    - (page 54) Removes Impediments: While the Scrum Master mentors the team to solve issues by themselves, they own and remove other impediments that are outside the influence of the Team. In organizations starting Scrum, the Scrum Teams may get a lot of external interruptions and requests for additional tasks. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
+        - Keep in mind for systems team.
+    - (page 54) Champion of Transparency: The Scrum Master helps the team to increase transparency of planned work, actual progress, and impediments. The Scrum Master spends time detecting incomplete transparency by inspecting the artifacts, sensing patterns, listening closely to what is being said and not being said, and detecting differences between expected and real results. -------------------Question- 11-------------------------- Which of the following statements is true?
+    - (page 54) Champion of Transparency: The Scrum Master helps the team to increase transparency of planned work, actual progress, and impediments. The Scrum Master spends time detecting incomplete transparency by inspecting the artifacts, sensing patterns, listening closely to what is being said and not being said, and detecting differences between expected and real results.
+    - (page 54) The Scrum Team can expect the Scrum Master to coach them to become a cross-functional team and help them create high-value products
+        - Icrease Davids work
+    - (page 54) The Scrum Team can expect the Scrum Master's help, whenever required, to find the best sub-techniques to accomplish their work within the Scrum framework. An example of a sub-technique is using a burn-down graphic to track progress of product completion and Sprint Backlog completion.
+        - Should keep track of team complaints on the process and find a Scrum solution.
+    - (page 54) Chapter 2.1 - Scrum Master - Scrum Guardian and Servant-Leader
+        - Important chapter!!!
+    - (page 55) Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value.
+        - Good example was the kickback fee backlog. Already ordered by sequence and with subtasks.
+    - (page 55) Ensuring that goals, scope, and product domain are understood by everyone on the Scrum Team.
+    - (page 56) The Scrum Master need not be a technical member of the Development Team. They can be full-time or part-time for a Scrum Team. They are usually a Scrum Master for more than one Scrum Team in parallel. It is mandatory for the Scrum Master to participate in all events except the Daily Scrum.
+        - Here is where we differ in implementation. But I could potentially grow to a part time development position.
+    - (page 56) Summary • The Scrum Master is responsible for promoting and supporting Scrum as defined in the Scrum Guide. Scrum Masters do this by helping everyone understand Scrum theory, practices, rules, and values. • The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team. • The Scrum Master also removes impediments and is the champion of transparency. • They facilitate Scrum events as requested or needed. • They serve the Product Owner in finding techniques for effective Product Backlog management, understanding product planning in an empirical environment, and knowing how to arrange the Product Backlog to maximize value. The Scrum Master ensures that goals, scope, and product domain are understood by everyone on the Scrum Team as well as possible. • They serve the Development Team in coaching self-organization and cross-functionality, helping to create high-value products, and removing impediments to the Development Team’s progress. • They serve the organization in its Scrum adoption, planning Scrum implementations within the organization, helping employees and stakeholders understand and enact Scrum and empirical product development, causing change that increases the productivity of the Scrum Team, and working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization.
+        - Important summary
+    - (page 58) The Product Owner is the sole person responsible for managing the Product Backlog.
+    - (page 59) Anybody wanting to change the priority must address the Product Owner.
+    - (page 61) The team is SELF-ORGANIZED. The team is empowered in self-organization in such a way that no one, including the Product Owner, Scrum Master, or any other manager external to the Development Team directs or commands them on how to perform their work. The team self-organizes by focusing on the goal and working within the time-box.
+    - (page 62) In this case, the issue faced by the Development Team is well within the influence of the Development Team to resolve. So, the Scrum Master should coach the team to resolve such items themselves.
+        - If internal conflict.
+    - (page 62) Individual Development Team members may have specialized skills and areas of focus, but accountability belongs to the Development Team as a whole.
+        - More accountability in web team.
+    - (page 62) The Sprint Goal binds the Team together.
+    - (page 62) A Development Team may contain various specialists needed to achieve the Sprint Goal. For example, there could be Programmers, Testers, UI modelers, Architects, Technical writers, etc. But there is NO special name for any of them. Irrespective of their field of specialization, each one of them is called a Developer.
+    - (page 63) The fact that the Development Team is self-organized does not mean that there are no managers for team members. But they may be “people aspect” managers and not “product development work aspect” managers.
+    - (page 63) A Development Team decides that the frequency of the Daily Scrum should be reduced to once a week.
+        - Scrum master should coach.
+    - (page 63) The Development Team as whole and not the individual is accountable for Sprint progress.
+    - (page 65) If the organization does not yet understand the Scrum concept, it is the responsibility of the Scrum Master to coach the organization as well the Development Teams.
+    - (page 65) Scrum has a specific meaning for the term ‘stakeholder,’ which refers to people such as customers, users, and all those who have the commonality of having a specific interest and knowledge in a product.
+    - (page 66) Correct answer is ‘a.’ -------------------Question- 25-------------------------- What can they expect from Scrum Teams?
+    - (page 66) What can they expect from Scrum Teams?
+    - (page 68) 1. You are working as a Scrum Master on a team. Your organization plans to conduct a road show on Scrum across the board. You are asked to contribute to some related events. a) You will gladly volunteer because being a Scrum Master in an organization also involves the responsibility of coaching the organization.
+    - (page 70) A Development Team is responsible for performing development work and meeting the Sprint Goal. If they have any issue that is within their influence to solve, they are responsible for resolving it. The Scrum Master is responsible for impediments that are outside the Development Team's influence
+    - (page 73) The Sprint Goal provides some flexibility to the Development Team. The scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned. Accordingly, the Product Backlog Items for the current Sprint can be modified as long as these changes do not endanger the Sprint Goal.
+    - (page 74) Once the Sprint is in motion, the definition of "Done" for the current Sprint cannot be changed if the change will lead to a decrease in product quality. The team can inspect the need for changing the definition of "Done" during the last event of the Sprint, the Retrospective, and adjust as needed for the subsequent Sprints.
+    - (page 74) However, only the Product Owner has the authority to cancel the Sprint, although they may do so under the influence of the stakeholders, Development Team, or Scrum Master.
+    - (page 75) No individual leads or controls this meeting. The Scrum Master ensures that the event takes place and that attendants understand its purpose.
+        - About sprint planning.
+    - (page 75) The Scrum Master teaches the Scrum Team to keep it within the time-box. Its duration is up to eight hours for a one-month Sprint. For shorter Sprints, it is usually shorter.
+    - (page 75) The Sprint Goal is a tool for team coherence.
+    - (page 75) So, the Sprint Goal is a tool to verify and create this coherence. As the Development Team works, it keeps the Sprint Goal in mind. In order to satisfy the Sprint Goal, it implements the functionality and technology.
+    - (page 75) If the work turns out to be different than what the Development Team expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint.
+    - (page 76) The Product Backlog Items selected for this Sprint plus the plan for delivering them is called the Sprint Backlog.
+    - (page 78) The Sprint Backlog increases the transparency of information about work planned and performed during the Sprint.
+    - (page 78) It is a highly visible, real-time picture of the work that the Development Team plans to accomplish during the Sprint.
+        - Should be real time. Doing better with the checklist.
+    - (page 78) Content: Product Backlog Items in scope for the Sprint (What) and the Development Team's plan for realizing the Sprint Goal (How). Each plan item has a description and estimate. The Sprint Backlog is also called a Forecast.
+    - (page 78) The Development Team modifies the Sprint Backlog throughout the Sprint, and the Sprint Backlog emerges during the Sprint.
+    - (page 79) The Sprint Backlog is collectively owned by the Development Team. There is no sole ownership of a Sprint Backlog Item by an individual team member, although they may work individually on an item. This is to ensure that there is increased transparency of work within the team, without an individual boundary.
+        - I feel like we can do this better.
+    - (page 79) The estimated total remaining time is calculated at least once a day before the Daily Scrum,
+        - Maybe I should track this with the standup duration.
+    - (page 79) Should coach the team to collectively take ownership of the Sprint Backlog Items even though an individual works on a specific item.
+    - (page 81) One of the primary responsibilities of the Scrum Master for new teams is to coach them in the art of working to produce a useable Product Increment within short Sprints.
+        - Important for Systems team
+    - (page 81) The road to excellence is a journey, and the team needs to go through this initial learning with the Scrum Master’s help.
+    - (page 81) When there are issues that are outside the team’s influence, they are called impediments. The Scrum Master needs to own these impediments and resolve them. For example, the lengthy testing cycle example above may be an organizational-level constraint that the Scrum Master needs to work with the larger Organization to find an alternative solution.
+    - (page 82) Continues this tracking->re-planning->communicating->controlling cycle every day.
+    - (page 82) Tracks the progress against the Sprint plan.
+        - Note this
+    - (page 83) If others are present, the Scrum Master ensures that they do not disrupt the meeting.
+    - (page 83) The Scrum Master • ensures that the Development Team has the meeting and • teaches the Development Team to keep the Daily Scrum within the 15-minute time-box.
+    - (page 83) In fact, the Daily Scrum is a key inspect and adapt opportunity used to identify any issues like an unexpected absence and adapt the next 24-hour plan to respond.
+    - (page 84) The team starts by discussing the progress thus far.
+        - Maybe I can start the sprint by giving the status
+    - (page 84) Here is an example of what might be used: • What did I do yesterday that helped the Development Team meet the Sprint Goal? • What will I do today to help the Development Team meet the Sprint Goal? • Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
+    - (page 86) The Development Team can reach out to technical/domain people outside the Scrum Team for help. However, later in the Sprint Retrospective, they need to inspect why they could not do it themselves.
+        - Note the instances where systems was needed
+    - (page 88) The Increment is the most important artifact of all because it is the mark of the progress towards a business goal or vision.
+    - (page 88) The team has a Product Backlog Item that is almost done. Can it be demonstrated in the Sprint Review? No. Any Product Backlog Item is incomplete if it does not meet the definition of "Done."
+    - (page 90) The Scrum Master ensures that the event takes place and that the attendees understand its purpose and teaches all to keep it within the time-box.
+        - About sprint review
+    - (page 91) In the Product Burn-down Chart, the Sprints are shown on the x-axis. In the Sprint Burn-down Chart, the days
+    - (page 91) In the Product Burn-down Chart, the Sprints are shown on the x-axis. In the Sprint Burn-down Chart, the days of the Sprint are shown on the x-axis.
+    - (page 93) Does the Retrospective also review the product or work outcome? No, the Product Increment is already reviewed by the Scrum Team and stakeholders in the Sprint Review. The Retrospective is about improving the way the product is built.
+    - (page 93) During each Sprint Retrospective, the Scrum Team plans ways to increase product quality by adapting the definition of “Done” as appropriate.
+        - Should work on this
+    - (page 95) Time-boxed Scrum events eliminate waste associated with traditional meetings.
+    - (page 95) The Scrum Master guards the Scrum Framework and champions the Scrum rules including transparency.
+    - (page 96) What happens if a Development Team completes the work before the Sprint end? If a team completes the work before the Sprint end, they may collaboratively decide to do additional work such as refining the Backlog, etc. and still complete the Sprint as planned. The Sprint duration is kept intact without contraction or expansion.
+    - (page 99) A good guideline to differentiate Acceptance Criteria from the definition of “Done” is, “the definition of “Done” provides a checklist to take the Increment to a potentially shippable state, while the Acceptance Criteria focus on testing the business requirements.”
+    - (page 115) You can follow the approach recommended in Figure 22.
+        - How to learn
